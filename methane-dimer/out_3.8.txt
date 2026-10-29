@@ -1,0 +1,5 @@
+R_CC(A)  method               E_int raw  E_int CP  (kcal/mol)
+  3.80   HF                      0.259     0.275   (4s)
+  3.80   B3LYP                   0.283     0.323   (11s)
+  3.80   wB97M-V, VV10 off      -0.453    -0.418   (246s)
+  3.80   wB97M-V                -0.453    -0.418   (248s)

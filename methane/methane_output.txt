@@ -1,0 +1,44 @@
+N basis functions: 73   E = -40.490985 Ha
+occupied canonical orbital energies (Ha): [-10.3191  -0.8128  -0.4932  -0.4932  -0.4932]
+  -> 1 core (C 1s), then a1 (1 orbital), then t2 (3 degenerate orbitals)
+
+localized orbitals as mixtures of the canonical a1 and t2 orbitals
+(squared coefficients; columns = localized orbital 1..4):
+[[0.25  0.25  0.25  0.25 ]
+ [0.085 0.531 0.026 0.359]
+ [0.337 0.086 0.561 0.016]
+ [0.328 0.133 0.163 0.376]]
+a1 share of each localized orbital: [0.25 0.25 0.25 0.25]  t2 share: [0.75 0.75 0.75 0.75]
+
+localized orbital 0 is the C-H1 bond orbital
+  Lowdin weight on C: 0.508   on H1: 0.373   on the other three H: 0.119
+  on carbon: s 20.1%  p 75.8%  d 4.1%   (sp3 would be 25% s, 75% p)
+  p/s weight ratio on carbon: 3.76   (sp3: 3.00)
+
+carbon p shells all point along n = [0.5774 0.5773 0.5774]
+  C->H bond direction              = [0.5774 0.5774 0.5774]
+  angle between them: 0.00 degrees
+
+full orbital: max |psi| = 0.388
+s+p formula vs full orbital: max error = 8.62e-03
+  (the missing piece is the d and f functions)
+  C-centered s+p part: rms 0.075
+  H1-centered s+p part: rms 0.037
+
+CARBON s shells (c = coefficient on the shell; then primitives alpha, d*N):
+  shell 0: c = -0.04693
+  shell 1: c = -0.10080
+  shell 2: c =  0.15994
+  shell 3: c =  0.16039
+  shell 4: c =  0.07363
+  shell 5: c =  0.00004
+CARBON p shells (weight a = |v|, signed along n):
+  shell 6: a =  0.28182
+  shell 7: a =  0.20202
+  shell 8: a =  0.16597
+H1 shells:
+  shell 13 l=0: c = [0.20174]
+  shell 14 l=0: c = [0.27452]
+  shell 15 l=0: c = [-0.01334]
+  shell 16 l=1: c = [-0.01429 -0.01429 -0.01429]
+  shell 17 l=1: c = [0.01035 0.01035 0.01035]

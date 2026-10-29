@@ -1,0 +1,5 @@
+Lowdin     carbon holds 50.8%; on carbon  s 20.1%  p 75.8%  d  4.1%
+Mulliken   carbon holds 60.9%; on carbon  s 27.7%  p 71.4%  d  0.9%
+(Mulliken splits the overlap between two atoms 50/50, Lowdin first
+ orthogonalizes the basis; neither is 'right', and Mulliken can even
+ give negative populations.)

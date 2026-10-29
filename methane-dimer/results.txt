@@ -1,0 +1,7 @@
+Methane dimer, C...C = 3.80 A, rigid D3d-like geometry (not optimized), def2-TZVPD, kcal/mol
+method               E_int raw  E_int CP
+HF                      0.259     0.275
+B3LYP                   0.283     0.323
+wB97M-V, VV10 off       0.037     0.072   (diagnostic only: functional was fit with VV10 on)
+wB97M-V                -0.453    -0.418
+(For scale, CCSD(T)/CBS for the optimized methane dimer is about -0.5, S22 value from memory.)

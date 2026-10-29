@@ -1,0 +1,40 @@
+N basis functions: 37   E = -37.846433 Ha
+alpha occupied: 4   beta occupied: 2
+alpha orbital energies (Ha): [-10.4746  -0.6934  -0.3602  -0.3602  -0.0596]
+beta  orbital energies (Ha): [-1.04447e+01 -5.86700e-01 -1.78000e-02  9.10000e-03  9.10000e-03]
+
+alpha orbital 3: energy -0.3602 Ha, occupation 1
+
+shells (angular momentum l, number of primitives):
+  shell  0: l=0  nprim=6  AOs 0-0
+  shell  1: l=0  nprim=2  AOs 1-1
+  shell  2: l=0  nprim=1  AOs 2-2
+  shell  3: l=0  nprim=1  AOs 3-3
+  shell  4: l=0  nprim=1  AOs 4-4
+  shell  5: l=0  nprim=1  AOs 5-5
+  shell  6: l=1  nprim=4  AOs 6-8
+  shell  7: l=1  nprim=1  AOs 9-11
+  shell  8: l=1  nprim=1  AOs 12-14
+  shell  9: l=2  nprim=1  AOs 15-19
+  shell 10: l=2  nprim=1  AOs 20-24
+  shell 11: l=2  nprim=1  AOs 25-29
+  shell 12: l=3  nprim=1  AOs 30-36
+
+direction n of the lobe axis (unit vector): [0.7871 0.5417 0.295 ]
+radial weights a_s per p shell (coefficient vector length): [0.48748 0.42314 0.28473]
+largest coefficient outside the p shells: 8.8e-04
+
+p-shell primitives (exponent alpha, contraction coefficient d, primitive norm N):
+  p shell 1 (weight a = 0.48748):
+      alpha =    34.697232   d =  0.011327   N =  245.670457
+      alpha =     7.958262   d =  0.076170   N =  38.994845
+      alpha =     2.378083   d =  0.301923   N =  8.615254
+      alpha =     0.814332   d =  0.727850   N =  2.256765
+  p shell 2 (weight a = 0.42314):
+      alpha =     0.288875   d =  1.000000   N =  0.617835
+  p shell 3 (weight a = 0.28473):
+      alpha =     0.100568   d =  1.000000   N =  0.165219
+
+max |formula - PySCF p part| over 50 random points: 1.64e-08
+max |non-p part| (tiny f admixture from the finite grid): 4.90e-04
+typical |psi| at those points: 7.96e-02
